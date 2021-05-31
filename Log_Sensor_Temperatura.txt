@@ -1,0 +1,11 @@
+{"Data Execução":"30/04/2021","Hora Execução":"01:56:29","variable":"temperatura","unit":"oC","value":25.16}
+{"Data Execução":"30/04/2021","Hora Execução":"02:03:09","variable":"temperatura","unit":"oC","value":22.89}
+{"Data Execução":"30/04/2021","Hora Execução":"12:27:46","variable":"temperatura","unit":"oC","value":22.89}
+{"Data Execução":"30/04/2021","Hora Execução":"14:36:03","variable":"temperatura","unit":"oC","value":25.16}
+{"Data Execução":"30/04/2021","Hora Execução":"14:37:39","variable":"temperatura","unit":"oC","value":25.16}
+{"Data Execução":"30/04/2021","Hora Execução":"14:39:50","variable":"temperatura","unit":"oC","value":54.52}
+{"Data Execução":"30/04/2021","Hora Execução":"14:42:13","variable":"temperatura","unit":"oC","value":15.32}
+{"Data Execução":"30/04/2021","Hora Execução":"17:09:42","variable":"temperatura","unit":"oC","value":15.32}
+{"Data Execução":"30/04/2021","Hora Execução":"17:09:42","variable":"temperatura","unit":"oC","value":15.32}
+{"Data Execução":"30/04/2021","Hora Execução":"17:10:46","variable":"temperatura","unit":"oC","value":15.32}
+{"Data Execução":"30/04/2021","Hora Execução":"17:14:21","variable":"temperatura","unit":"oC","value":54.52}
